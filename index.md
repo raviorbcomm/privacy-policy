@@ -12,6 +12,17 @@ ORBCOMM does not sell or share your Personal Information.  However, we do share 
 INFORMATION SECURITY
 Preserving the security of your Personal Information is ORBCOMM's primary concern. We have instituted contractual, technical, and organizational strategies designed to prevent unauthorized access, use, and disclosure of Personal Information. These strategies are carefully designed, considering the latest technology, risks associated with processing, and the nature of the data. When your personal data is shared with third parties, including service providers, we apply certain conditions  to secure the data and prohibit its use for any purpose other than providing the necessary services.
 USE BY MINORS
+Location Data
+Our app collects location data to enable [describe your feature, e.g., "continuous tracking of your device for delivery updates," "background geofencing alerts," etc.] even when the app is closed or not in use. This information is used to [explain the purpose, e.g., "provide real-time updates," "improve service accuracy," "send location-based notifications," etc.].
+We request your explicit consent before collecting location data in the background. You will see a clear, in-app disclosure explaining why background location access is needed, and you can choose whether to allow this permission.
+How We Use Location Data:
+Location data is used for [list your purposes, e.g., "tracking shipments," "providing location-based services," "enhancing user experience," etc.].
+Location data may be collected even when the app is not actively in use or running in the background.
+We do not share your location data with third parties except as required to provide our services or as required by law.
+Your Choices:
+You can choose to allow or deny background location access when prompted.
+You can change your location permission preferences at any time in your device settings.
+Denying background location access may limit certain features of the app.
 ORBCOMM PRODUCTS AND SERVICES, INCLUDING THE APPS, ARE NOT DIRECTED OR INTENDED TO BE USED BY MINORS UNDER THE AGE OF 18 (“MINORS”).  ORBCOMM DOES NOT INTENTIONALLY COLLECT USE OR SELL THE PERSONAL DATA OF MINORS.  IF YOU ARE UNDER THE AGE OF 18 DO NOT DOWNLOAD OR USE ANY ORBCOMM APP(S).
 DATA PROTECTION RIGHTS, AND HOW TO EXERCISE
 You have a right to know what Personal Information ORBCOMM has collected about you, as well as a right to access, correct and possibly have deleted this Personal Information retained by ORBCOMM, as a processor directed by our Customer – your employer. You may also object to ORBCOMM’s processing of your Personal Information and exercise your right to have your Personal Information transferred to another controller.  As part of your right to withdraw the consent you may have given to the controller (your employer), where that consent is the basis for ORBCOMM’s processing at the direction of the controller (your employer) you must withdraw that consent directly with the controller (your employer) who will provide direction to ORBCOMM, as processor.  Note that there may be other legitimate reasons and a legal basis for a controller to direct ORBCOMM to process your Personal Information (despite your withdrawal of consent to any processing that took place prior to the withdrawal of your consent).
