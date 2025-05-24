@@ -10,6 +10,13 @@ ORBCOMM collects and uses this data and Personal Information for legitimate busi
 ONWARD TRANSFERS AND DISCLOSURE OF PERSONAL INFORMATION
 ORBCOMM does not sell or share your Personal Information.  However, we do share your Personal Information with our Customers if they are your employer, our subsidiaries and affiliates and other third parties (subprocessors) assisting us in complying with our legal obligations, solely for purposes of supporting the app.  Any subprocessor of your Personal Information will have agreed and be bound by contractual obligations to keep the data, including your Personal Information, secure and confidential using it only in connection with supporting our products and services.
 INFORMATION SECURITY
+Background Location Data Collection
+Our app collects location data in the background to enable core features such as [describe your feature, e.g., asset tracking, job assignment, or route optimization], even when the app is closed or not in use. This data is used to [explain the purpose, e.g., provide real-time updates, improve service accuracy, or ensure safety compliance].
+What data is collected: The app collects precise location data from your device, even when the app is not actively in use.
+How it is used: Location data is used for [describe your use case, e.g., tracking assets, assigning jobs, or providing location-based notifications].
+How it is shared: Location data is [not shared with third parties/shared only with authorized personnel/used solely for the purposes described above].
+User control: You can disable background location access at any time in your device settings. Disabling this permission may limit certain app functionalities.
+We request your explicit consent before collecting background location data, and you will see a clear in-app message explaining this when the app first requests the permission.
 Preserving the security of your Personal Information is ORBCOMM's primary concern. We have instituted contractual, technical, and organizational strategies designed to prevent unauthorized access, use, and disclosure of Personal Information. These strategies are carefully designed, considering the latest technology, risks associated with processing, and the nature of the data. When your personal data is shared with third parties, including service providers, we apply certain conditions  to secure the data and prohibit its use for any purpose other than providing the necessary services.
 USE BY MINORS
 ORBCOMM PRODUCTS AND SERVICES, INCLUDING THE APPS, ARE NOT DIRECTED OR INTENDED TO BE USED BY MINORS UNDER THE AGE OF 18 (“MINORS”).  ORBCOMM DOES NOT INTENTIONALLY COLLECT USE OR SELL THE PERSONAL DATA OF MINORS.  IF YOU ARE UNDER THE AGE OF 18 DO NOT DOWNLOAD OR USE ANY ORBCOMM APP(S).
