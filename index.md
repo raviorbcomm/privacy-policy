@@ -1,111 +1,231 @@
-# Privacy Policy – ORBCOMM Apps
+# Privacy Policy ORBCOMM Apps
 
-This privacy policy describes the data that ORBCOMM Inc. and its subsidiaries including, but not limited to, ORBCOMM LLC, ORBCOMM Canada Inc., ORBCOMM Europe B.V./GmbH/Ltd., ORBCOMM Africa (Pty) Ltd., ORBCOMM Japan Ltd., ORBCOMM Technologies India (Pvt) Ltd. and Blue Tree Systems, Inc. ("ORBCOMM," "we," "us," and/or "our") collects through software applications for mobile phones and tablets made available to our customers and their employees and authorized representatives ("Customers," "you," and/or "your") on the Google Play and Apple App Stores (each an "app" or the "apps").
+This privacy policy describes the data that ORBCOMM Inc. and its subsidiaries collects through software applications for mobile phones and tablets made available to our customers and their employees and authorized representatives ("Customers," "you," and/or "your") on the Google Play and Apple App Stores (each an "app" or the "apps").
 
 ## IMPORTANT: ENTERPRISE/BUSINESS APPLICATION NOTICE
 
 **This app is designed exclusively for business and enterprise use by ORBCOMM customers, employees, authorized installers, technicians, and certified partners. This app is not intended for consumer or general public use.** All users must be authenticated through ORBCOMM's business systems and have authorized access to use this application.
 
-## APPLE APP STORE PRIVACY COMPLIANCE
+## APPLE APP STORE PRIVACY COMPLIANCE & APP TRACKING TRANSPARENCY
 
-### Data Collection vs. Tracking Clarification
+### Data Collection and Tracking Disclosure
 
-**WE DO NOT TRACK USERS ACROSS OTHER COMPANIES' APPS OR WEBSITES.** This app collects data solely for business functionality within ORBCOMM's device installation and management ecosystem. Specifically:
+**IMPORTANT TRACKING NOTICE:** This app collects certain data types that Apple's App Store guidelines classify as "tracking data," including crash data, names, coarse location, performance data, and email addresses. While this data is collected primarily for legitimate business purposes within our enterprise ecosystem, Apple's privacy framework requires us to be transparent about this collection.
 
-- **Data Used for App Functionality:** User names, credentials, job data, device information, and location data are collected to enable core business features like user authentication, job assignments, device installations, and asset management.
-- **No Cross-App Tracking:** We do not collect data to track users across other companies' apps, websites, or services for advertising, measurement, or analytics purposes.
-- **No Advertising:** This app does not contain advertising or share data with advertising networks.
+### App Tracking Transparency (iOS 14.5+) - REQUIRED IMPLEMENTATION
 
-### App Tracking Transparency (iOS 14.5+)
+**This app DOES implement App Tracking Transparency as required by Apple.** When you first launch the app on iOS 14.5 or later, you will see a system permission dialog requesting permission to track your activity. This dialog will appear before any tracking data is collected.
 
-For iOS devices running version 14.5 or later, if the app detects any potential tracking activities, you will be presented with an App Tracking Transparency prompt requesting permission. You can:
-- Grant permission to allow data collection for improved app performance
-- Deny permission to restrict data collection to essential business functions only
-- Change your preference anytime in iOS Settings > Privacy & Security > Tracking
+**You will be asked:**
+"Allow [App Name] to track your activity across other companies' apps and websites?"
 
-**Note:** This business application's core functionality does not require cross-app tracking, and the app will function fully regardless of your tracking preference.
+**Your Options:**
+- **"Ask App not to Track"** - Restricts data collection to essential business functions only
+- **"Allow"** - Permits full data collection for enhanced app performance and business functionality
+
+**Note:** You can change this preference anytime in iOS Settings > Privacy & Security > Tracking > [App Name]
+
+### What Happens Based on Your Choice
+
+**If You Allow Tracking:**
+- Full business functionality including enhanced location services
+- Improved app performance monitoring and crash reporting
+- Complete job assignment and asset management features
+- Enhanced diagnostic capabilities for technical support
+
+**If You Ask App Not to Track:**
+- Core business functions remain available
+- Limited performance monitoring (anonymous only)
+- Basic location services for essential job functions only
+- Reduced diagnostic data collection
 
 ## COLLECTION AND USE OF PERSONAL DATA
 
-"Personal Information" is any information that relates to an identified or identifiable individual. ORBCOMM collects a limited set of personal data on behalf of its Customers through the use of the apps. The type of Personal Information collected through an app depends on which app(s) is being used by a particular Customer and how that app is configured.
+"Personal Information" is any information that relates to an identified or identifiable individual. ORBCOMM collects personal data for legitimate business purposes through our mobile app and associated web application platform used for user management, job assignment, and data administration.
 
 ### Data We Collect for Business Functionality:
 
-**Registration and Authentication Data:**
+**Registration and Authentication Data (Collected via Mobile App & Web Platform):**
 - Name (for user identification within business systems)
 - Work-associated email address
 - Phone number
 - User ID and credentials
 - IP address (for security and authentication)
+- Account creation date and login history
 
-**Business Operations Data:**
+**Business Operations Data (Collected via Mobile App):**
 - Driver's license numbers (for authorized personnel verification)
 - Vehicle registration numbers and license plate numbers
 - Installation and job-related photographs
 - In-app messages and communications
 - Job assignment and completion data
+- Work schedules and time tracking
 
-**Technical and Diagnostic Data:**
-- Device identifiers (for app functionality and support)
+**Technical and Diagnostic Data (Apple Considers This "Tracking Data"):**
+- Device identifiers (IDFA when permitted, device UUID)
 - Device type and operating system information
 - App performance data, crash logs, and diagnostics
-- Installed app inventory (for our Dev Tools, Agent, or Launcher apps only, to prevent conflicts)
+- App usage analytics and user interaction patterns
+- Network connectivity information
+- Installed app inventory (for our Dev Tools, Agent, or Launcher apps only)
 
-**Location Data:**
-- Precise location data collected to validate installation locations, track assets, and assign location-based jobs
-- Background location collection (with explicit user consent) for core business features
+**Location Data (Apple Considers This "Tracking Data"):**
+- Precise location data (GPS coordinates) for installation validation
+- Coarse location data for job assignment optimization
+- Background location collection (with explicit user consent)
+- Location history for asset tracking and route optimization
+- Geofencing data for automated job triggers
+
+**Web Platform Additional Data:**
+- User management and invitation system data
+- Job creation and assignment records
+- Administrative access logs and audit trails
+- Customer organization and hierarchy information
 
 ### Purpose of Data Collection
 
 All personal information is collected for legitimate business purposes:
-- User authentication and access control
-- Job assignment and management
-- Device installation validation
-- Asset tracking and management
-- Route optimization
-- Regulatory compliance and reporting
+- User authentication and access control across mobile and web platforms
+- Job assignment, scheduling, and management
+- Device installation validation and verification
+- Asset tracking and fleet management
+- Route optimization and efficiency improvements
+- Regulatory compliance and audit requirements
 - Technical support and app performance improvement
 - Fraud prevention and security monitoring
+- Business analytics and operational reporting
 
 ## BACKGROUND LOCATION DATA COLLECTION
 
-Our app collects location data in the background to enable core business features such as asset tracking, installation validation, and job assignment optimization.
+Our app collects location data in the background to enable core business features. **This is considered "tracking data" under Apple's guidelines.**
 
-**What data is collected:** Precise location coordinates from your device
-**How it is used:** Location data validates successful customer installations, tracks business assets, and optimizes job assignments
-**How it is shared:** Location data is shared only with authorized ORBCOMM personnel and customers for business purposes
-**User control:** You can disable background location access anytime in device settings. Note that disabling this permission may limit certain business functionalities required for your job duties.
+**What data is collected:** Precise GPS coordinates and coarse location data
+**Frequency:** Continuous when app is active, periodic when backgrounded (with permission)
+**Business justification:** Installation validation, asset tracking, job optimization, compliance reporting
+**User consent:** Explicit permission requested through iOS location services and App Tracking Transparency
+**Data retention:** Location data retained for [specify duration] for business records and compliance
 
-We request explicit consent before collecting background location data with clear in-app messaging explaining the business necessity.
+**User Control Options:**
+- Disable background location in iOS Settings > Privacy & Security > Location Services
+- Choose "Ask App not to Track" in App Tracking Transparency dialog
+- Request location data deletion through account management (see Account Deletion section)
+
+## ACCOUNT CREATION AND DELETION
+
+### Account Creation
+
+User accounts are created through our web platform management system by authorized ORBCOMM administrators. Account creation includes:
+- Basic profile information (name, email, phone)
+- Work authorization and credentials
+- Access permissions and role assignments
+- Integration with mobile app authentication
+
+### Account Deletion - USER RIGHTS
+
+**You have the right to request complete account deletion.** When you delete your account:
+
+**What Gets Deleted:**
+- Personal profile information (name, email, phone)
+- Login credentials and authentication data
+- Personal preferences and app settings
+- Personal location history (where legally permissible)
+- Non-business communications and messages
+
+**What May Be Retained (Business Records):**
+- Job completion records (required for regulatory compliance)
+- Installation verification data (required for warranty and compliance)
+- Audit logs (required for security and compliance)
+- Data required by law or regulation to be retained
+
+**How to Request Account Deletion:**
+
+**Option 1: Direct Web Platform Access**
+1. Log into the ORBCOMM web platform
+2. Navigate to Account Settings > Privacy & Data
+3. Select "Delete My Account"
+4. Follow the confirmation steps
+5. Account deletion will be processed within 30 days
+
+**Option 2: Email Request**
+- Send email to: privacy@orbcomm.com
+- Subject: "Account Deletion Request"
+- Include: Full name, email address, employer/organization
+- Response within 5 business days, deletion within 30 days
+
+**Option 3: Through Your Employer**
+- Contact your organization's ORBCOMM administrator
+- Request account deletion through your company's HR or IT department
+- Administrator can process deletion through web platform
+
+**Confirmation:** You will receive email confirmation when account deletion is complete.
+
+**Important:** Account deletion may affect your ability to perform job-related functions. Consult with your employer before requesting deletion.
 
 ## DATA CONTROLLER/PROCESSOR RELATIONSHIP
 
-For personal information collected through the app, ORBCOMM acts as a processor on behalf of our Customers (who are the controllers). Each Customer individually controls their personal information practices. For technical app data (performance, diagnostics, crash logs, device IDs), ORBCOMM acts as the controller.
+**For Personal Information:** ORBCOMM acts as a processor on behalf of our business customers (who are the controllers). Your employer/organization controls data practices for business-related information.
+
+**For Technical/Tracking Data:** ORBCOMM acts as the controller for app performance data, crash logs, device identifiers, and analytics data collected through App Tracking Transparency.
 
 ## ONWARD TRANSFERS AND DISCLOSURE OF PERSONAL INFORMATION
 
-**We do not sell, rent, or share your Personal Information for commercial purposes.** 
+**We do not sell, rent, or share your Personal Information for commercial advertising purposes.**
 
 We share Personal Information only with:
-- Our business Customers (typically your employer)
+- Your employer/organization (business data controller)
 - ORBCOMM subsidiaries and affiliates
 - Authorized subprocessors providing technical support
+- Cloud service providers (with appropriate data processing agreements)
 - Regulatory agencies or law enforcement when legally required
+- Third parties with your explicit consent
+
+**Tracking Data Sharing (Subject to Your App Tracking Transparency Choice):**
+- Analytics providers (if tracking permission granted)
+- Crash reporting services (if tracking permission granted)
+- Performance monitoring services (if tracking permission granted)
 
 All third-party processors are contractually bound to maintain data security and confidentiality.
 
+## APP STORE SPECIFIC PRIVACY LABELS ALIGNMENT
+
+Our iOS App Store privacy labels accurately reflect the following data collection:
+
+**Data Used to Track You (Requires App Tracking Transparency Permission):**
+- Crash Data
+- Name
+- Coarse Location
+- Performance Data
+- Email Address
+
+**Data Linked to You (For App Functionality):**
+- Contact Info (Name, Email, Phone)
+- Location (Precise and Coarse)
+- Identifiers (User ID, Device ID)
+- Usage Data
+- Diagnostics
+
+**Data Not Collected:**
+- Health & Fitness data
+- Financial information
+- Browsing history
+- Search history
+- Sensitive personal information
+
 ## INFORMATION SECURITY
 
-Preserving the security of your Personal Information is ORBCOMM's primary concern. We have implemented:
-- Industry-standard encryption for data transmission and storage
+We implement industry-standard security measures:
+- End-to-end encryption for data transmission
+- AES-256 encryption for data storage
 - Multi-factor authentication systems
-- Regular security audits and vulnerability assessments
+- Regular security audits and penetration testing
+- SOC 2 Type II compliance
+- ISO 27001 certified security management
 - Contractual data protection requirements for all service providers
-- Access controls limiting data access to authorized personnel only
+- Zero-trust access controls
 
 ## USE BY MINORS
 
-**ORBCOMM PRODUCTS AND SERVICES, INCLUDING THE APPS, ARE NOT DIRECTED TO MINORS UNDER 18.** This is a business application for authorized personnel only. If you are under 18, do not download or use any ORBCOMM app.
+**ORBCOMM PRODUCTS AND SERVICES ARE NOT DIRECTED TO MINORS UNDER 18.** This is a business application for authorized personnel only. We do not knowingly collect personal information from minors. If you are under 18, do not download or use any ORBCOMM app.
 
 ## YOUR DATA PROTECTION RIGHTS
 
@@ -114,53 +234,59 @@ You have the right to:
 - Access, correct, or request deletion of your Personal Information
 - Object to processing of your Personal Information
 - Request data portability
-- Withdraw consent (where consent is the legal basis for processing)
+- Withdraw consent (including App Tracking Transparency consent)
+- Request restriction of processing
 
-**To exercise these rights:** Contact your employer (the data controller) directly, or email us at privacy@orbcomm.com with your specific request and employer information.
+**To Exercise These Rights:**
+1. **For Business Data:** Contact your employer (the data controller)
+2. **For Tracking Data:** Email privacy@orbcomm.com
+3. **For Account Deletion:** Use methods described in Account Deletion section
+4. **For App Tracking:** Change settings in iOS Settings > Privacy & Security > Tracking
 
-## APP STORE SPECIFIC PRIVACY INFORMATION
+## CONTACT INFORMATION FOR PRIVACY MATTERS
 
-### iOS App Store Privacy Labels
+**General Privacy Questions:**
+Email: privacy@orbcomm.com
 
-Our app's privacy labels in the iOS App Store accurately reflect:
-- **Data Collected for App Functionality:** Names, location, device info, usage data
-- **Data NOT Used for Tracking:** No data is used to track users across other companies' apps
-- **Data Sharing:** Limited to business purposes with authorized entities only
+**App Store Privacy Compliance:**
+Email: privacy@orbcomm.com
+Subject Line: iOS App Store Privacy Inquiry
 
-### Changes to Tracking Practices
+**Account Deletion Requests:**
+Email: privacy@orbcomm.com
+Subject Line: Account Deletion Request
 
-If we ever implement cross-app tracking for advertising or measurement purposes, we will:
-- Update this privacy policy with 30 days notice
-- Request explicit consent through App Tracking Transparency
-- Update App Store privacy labels accordingly
-- Provide opt-out mechanisms
-
-## CONTACT INFORMATION FOR APP STORE COMPLIANCE
-
-For App Store privacy compliance questions or to report privacy concerns:
-
-**Email:** privacy@orbcomm.com  
-**Subject Line:** iOS App Store Privacy Inquiry  
-
-**Mail:**  
-ORBCOMM Inc.  
-Attention: Legal & Compliance Department, Data Privacy Officer  
-395 West Passaic Street, Ste 325  
-Rochelle Park, NJ 07662 USA  
+**Mailing Address:**
+ORBCOMM Inc.
+Attention: Data Privacy Officer
+395 West Passaic Street, Ste 325
+Rochelle Park, NJ 07662 USA
 
 ## UPDATES TO THIS PRIVACY POLICY
 
-We may update this privacy policy to reflect changes in:
-- Applicable privacy laws and regulations
-- App functionality and features
-- ORBCOMM's internal policies and practices
-- App Store requirements and guidelines
+We may update this privacy policy to reflect:
+- Changes in applicable privacy laws
+- App functionality updates
+- App Store requirement changes
+- Business practice modifications
 
-When updates are made:
-- The revision date will be updated at the top of this document
-- Significant changes will be communicated through in-app notifications
-- The updated policy will be made available in the app and on our website
+**Notification of Changes:**
+- Updated revision date at top of document
+- In-app notifications for significant changes
+- Email notification to registered users
+- 30-day notice period for material changes
+- Updated policy available in app and website
 
 ## REGULATORY COMPLIANCE
 
-This privacy policy complies with applicable privacy laws including GDPR, CCPA/CPRA, and Apple App Store Review Guidelines. For jurisdiction-specific privacy rights or questions, please contact privacy@orbcomm.com.
+This privacy policy complies with:
+- Apple App Store Review Guidelines
+- iOS App Tracking Transparency requirements
+- General Data Protection Regulation (GDPR)
+- California Consumer Privacy Act (CCPA/CPRA)
+- Other applicable regional privacy laws
+
+For jurisdiction-specific privacy rights or questions, contact privacy@orbcomm.com.
+
+---
+
